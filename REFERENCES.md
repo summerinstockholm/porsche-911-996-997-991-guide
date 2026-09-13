@@ -120,6 +120,15 @@
 - LN Engineering — How to bore scope your Porsche engine for cylinder bore scoring
   https://lnengineering.com/products/watercooled-porsche-cylinders-sleeves-and-pistons/porsche-cylinder-bore-scoring/how-to-bore-scope-your-porsche-engine-for-cylinder-bore-scoring/
 
+- LN Engineering — The Ultimate M96/M97 Engine Rebuild Guide
+  https://lnengineering.com/the-ultimate-m96-m97-engine-rebuild-guide/
+
+- LN Engineering — My Porsche engine has scored bores: repair/rebuild options for M96/M97 and MA1/9A1
+  https://docs.lnengineering.com/article/126-my-porsche-engine-has-scored-bores-what-can-i-do
+
+- Hartech — Porsche engine rebuild specialists; IMS, scored/cracked cylinders and liners
+  https://www.hartech.org/
+
 - LN Engineering — IMS pre-qualification
   https://docs.lnengineering.com/article/4-ims-pre-qualification
 
