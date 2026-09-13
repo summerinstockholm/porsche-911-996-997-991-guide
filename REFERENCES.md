@@ -12,6 +12,9 @@
 - Porsche Newsroom — The 996: First 911 with water-cooled flat engine
   https://newsroom.porsche.com/en/history/porsche-911-seven-generations-part-5-typ-996-16487.html
 
+- Porsche Newsroom — Trailblazer for the future of the 911: 25 years of the 996 generation (MY2002 model update)
+  https://newsroom.porsche.com/en_US/2022/products/porsche-25-years-911-generation-996-30401.html
+
 - Porsche Newsroom — 60 Years Porsche 911: Fifth generation — Engines
   https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/5.-Generation---Motoren.html
 
@@ -154,3 +157,17 @@
 ## Изображения
 
 Источники и лицензии: [`assets/images/SOURCES.md`](assets/images/SOURCES.md).
+
+## Porsche — model updates / generations
+
+- Porsche Newsroom — 996 generation engines; 3.4 300 PS and model update to 3.6 320 PS  
+  https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/5.-Generation---Motoren.html
+
+- Porsche Newsroom — 25 years of the 996 generation; MY2002 model update, Targa and Carrera 4S  
+  https://newsroom.porsche.com/en_US/2022/products/porsche-25-years-911-generation-996-30401.html
+
+- Porsche Newsroom — 997 generation; 2008 model update, DFI and PDK, 345/385 PS  
+  https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/6.-Generation---Motoren.html
+
+- Porsche Newsroom — 991 generation; 2015 model update, Carrera 3.0 biturbo, 370/420/450 PS  
+  https://newsroom.porsche.com/en/press-kits/60-Years-Porsche-911/7.-Generation---Motoren.html
